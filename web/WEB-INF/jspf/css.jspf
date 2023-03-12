@@ -1,0 +1,43 @@
+<%@ page pageEncoding="UTF-8" %>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+<style>
+    body {
+        background-color: #f3f3f3;
+        text-align: center;
+    }
+
+    h2 {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .navDim{
+        background-color: #931914;
+        height: 4.5em;
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        box-shadow: 1px 3px 10px #05050554;
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+        font-size: 100%;
+        justify-content: center;
+    }
+
+    .navDim > a{
+        color: white;
+        padding: 0px 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 4.5em;
+        width: 20em;
+        border: solid 0.08px;
+        border-top: none;
+        border-bottom: none;
+        border-right: none;
+        font-size: 100%;
+    }
+
+</style>
