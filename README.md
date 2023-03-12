@@ -52,7 +52,7 @@ Para executar o projeto localmento você pode utilizar o arquivo .WAR que se enc
 <h2 align="center"> Versão das Linguagens e Ferramentas
   
 #### Linguagens
-  * Java 11
+  * Java EE 7
   * HTML 5
   * CSS 3
 
