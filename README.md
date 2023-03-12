@@ -1,8 +1,4 @@
-<h1 align="center"> Questões do Processo Seletivo</h1>
-
-<h2 align="center"> Descrição </h2>
-
-Aplicação web que oferece uma plataforma para comunicação entre diversas instituições de ensino para direção de veículos automotores (autoescolas), clientes e possíveis colaboradores para as autoescolas.
+<h1 align="center"> Questões do Processo Seletivo Para Estagiário(a) de Desenvolvimento Java </h1>
 
 <h2 align="center"> Questões: </h2>
 
