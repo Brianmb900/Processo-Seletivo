@@ -18,8 +18,8 @@ Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, fa
 - Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
 
 IMPORTANTE:
-a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
-b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
+- Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
+- Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 <hr>
 
 Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
@@ -35,8 +35,8 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 Escreva um programa que inverta os caracteres de um string.
 
 IMPORTANTE:
-a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
-b) Evite usar funções prontas, como, por exemplo, reverse;
+- Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
+- Evite usar funções prontas, como, por exemplo, reverse;
 
 <h2 align="center"> Instalação Local </h2>
 
