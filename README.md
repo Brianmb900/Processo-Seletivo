@@ -1,4 +1,4 @@
-<h1 align="center"> Questões do Processo Seletivo Para Empresa X </h1>
+<h1 align="center"> Questões do Processo Seletivo</h1>
 
 <h2 align="center"> Descrição </h2>
 
